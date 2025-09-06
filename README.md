@@ -1,1 +1,1 @@
-# text_editor
+The program is created on the Flet library
